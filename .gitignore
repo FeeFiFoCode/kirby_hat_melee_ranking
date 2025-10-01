@@ -26,3 +26,4 @@ work/
 
 # Credentials
 .env
+.env.*
