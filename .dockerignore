@@ -1,0 +1,9 @@
+# Don’t copy local junk into Docker image
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.dockerignore
+.git
+.gitignore
+work/

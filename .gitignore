@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments (if you ever make one outside Docker)
+.venv/
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints
+
+# Logs & junk
+*.log
+*.tmp
+
+# Docker
+.docker/
+*.pid
+*.sock
+
+# Local data + notebooks
+work/
+
+# Credentials
+.env

@@ -1,0 +1,10 @@
+jupyterlab
+ipykernel
+pandas
+numpy
+matplotlib
+scikit-learn
+seaborn
+kagglehub
+plotly
+networkx
